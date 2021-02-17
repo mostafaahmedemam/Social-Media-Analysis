@@ -1,1 +1,2 @@
 # Social-Media-Analysis
+The project aims to applying algorithms based on Graph Theory to compute Centrality Property for each node in the graph(Degree Centrality ,Closeness Centrality) and graph visualization.
